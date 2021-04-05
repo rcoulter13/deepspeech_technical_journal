@@ -1,4 +1,4 @@
-<h1>** Welcome to the DeepSpeech Overview** <\h1>
+<h1>** Welcome to the DeepSpeech Overview**
   <h2> *Contents*
     1. About this page
     1. What is DeepSpeech 
