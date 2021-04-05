@@ -1,11 +1,11 @@
-<h1>** Welcome to the DeepSpeech Overview**
-  <h2> *Contents*
-    1. About this page
-    1. What is DeepSpeech 
-    1. Architecture (Plus comparisons)
-    1. Optimization
-    1. Live-Stream Speech-to-Text Feature
-    1. Features of Pre-trained Model
-    1. How to Set up DeepSpeech in Google Colab
-    1. How to run DeepSpeech on a CPU for simple experiments
-    1. TBD
+# ** Welcome to the DeepSpeech Overview**
+## *Contents*
+  * About this page
+  * What is DeepSpeech 
+  * Architecture (Plus comparisons)
+  * Optimization
+  * Live-Stream Speech-to-Text Feature
+  * Features of Pre-trained Model
+  * How to Set up DeepSpeech in Google Colab
+  * How to run DeepSpeech on a CPU for simple experiments
+  * TBD
